@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  cost-analyzer:
+  - apiVersion: v1
+    appVersion: 1.37.0
+    created: 2019-08-09T12:53:49.382695-04:00
+    description: A Helm chart that sets up Kubecost, Prometheus, and Grafana to monitor
+      cloud costs.
+    digest: ac174f313e4606e1e80612e03560d575baf416e649468c03233bd9443616dad1
+    name: cost-analyzer
+    urls:
+    - https://kunal0137.github.io/cost-analyzer-git/cost-analyzer-1.37.0.tgz
+    version: 1.37.0
+generated: 2019-08-09T12:53:49.378783-04:00
